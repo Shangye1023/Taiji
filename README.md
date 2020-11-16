@@ -1,6 +1,1 @@
-# Taiji
-
-xiaoming update readme...
-xiaohong update readme
-update
-
+# 小白完成了工作
